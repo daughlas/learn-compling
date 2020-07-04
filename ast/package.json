@@ -1,0 +1,15 @@
+{
+  "name": "ast",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lvjiawen <daughlas@gmail.com> (https://github.com/daughlas)",
+  "license": "MIT",
+  "dependencies": {
+    "recast": "^0.18.5"
+  }
+}
